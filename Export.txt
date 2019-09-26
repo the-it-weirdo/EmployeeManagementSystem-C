@@ -1,0 +1,25 @@
+Name,Position,Number,Year,College Roll, Skills,
+Aakarsh Gautam,Computer Science and Engineering,Senior Content Manager,2017,172001002,9304389121,Good Team Management and Self-Confidence
+Abanti Ghosh,Computer Science and Engineering,Senior Event Manager,2017,172002004,7044215869,Sports
+Abhay Kumar,Mechanical Engineering,Senior Campus Affairs Manager,2017,177001008,7050010406,Communication , Teamwork , Leadership , Dedication
+Akash Kumar Singh,Computer Science and Engineering,Senior Content Manager,2017,172010043,8597154360,Coding, Slam Poetry
+Amit Kumar,Computer Science and Engineering,Senior Event Manager,2017,172013053,7979008229,Any situation handle in cool manner
+Amitesh Kumar,Computer Science and Engineering,Senior Campus Affairs Manager,2017,172015059,9608518251,Obeying rules & regulations
+Anisha Parvez,Computer Science and Engineering,Senior Public Relations Manager,2017,172016068,9093876181,Public Interaction and Team Management
+Aparna Raj,Information Technology,Senior Office Manager,2017,174025094,8597144075,Management
+Avinash Kumar,Information Technology,Senior Office Manager,2017,174028115,9430066380,Java netbeans, my SQL, c, html, XML
+Crasy Bose,Computer Science and Engineering,Senior Public Relations Manager,2018,172041151,9635964530,Doing my work perfectly
+Debaleen Das Spandan,Computer Science and Engineering,Senior Technical Manager,2017,172042154,7478755667,Technical: Coding-Languages:-C, C++, Python Basics. Web-Development: HTML, CSS Basics, PHP Basics. Other: Linux Basics, Arduino(Autonomous Robotics Basics). Non-Technical: Writing
+Krishna Kumar Datta,Computer Science and Engineering,Senior Startup Manager,2017,172051205,7856860972,Typing and Coding
+Mouli Ghosh,Computer Science and Engineering,Senior Creative Crafts Manager,2017,172061257,8348866583,Creative arts,painting,sketching 
+Prachi Mitra,Information Technology,Senior Personal Relations Manager,2017,174061289,7478726945,Leadership Quality
+Priyam Yaduka,Information Technology,Senior Technical Manager,2017,174064302,9681964868,Graphics Designing,Web Designing,Programming(C,C++)
+Ritika rani,Computer Science and Engineering,Senior Campus Affairs Manager,2017,172079339,9155775598,Debate
+Rohan kumar,Mechanical Engineering,Senior Event Manager,2017,177041342,8271234332,Manging the event ,drawing,good leadership quality
+Sarika kumari,Computer Science and Engineering,Senior Startup Manager,2017,172088373,8918386098,Dance, anchoring
+Shruti Dharmani,Computer Science and Engineering,Senior Event Manager,2017,172099403,9179462666,Dancing
+Shubham Prakash Prasad,Information Technology,Senior Public Relations Manager,2017,174090441,7003660816,Good at Myriad stuff
+Subham Kumar Tiwari,Information Technology,Senior Public Relations Manager,2017,174089440,8210046144,Dancing,managing event,anchoring,self confidence,good leadership
+Swadhin Dhara,Information Technology,Senior Office Manager,2017,174100466,7797707517,Any problem can handle smoothly
+Tanay chauhan,Mechanical Engineering,Senior Creative Arts Manager,2017,177056468,9065099464,Good leadership qualities, mimicry, artistic sketching
+Test Case,Test Case,Test Case,Test Case,Test Case,Test Case,Test Case
